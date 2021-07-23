@@ -18,7 +18,7 @@ const App = ()=>{
 
   const renderMovie = moviesData.map((movie)=>{
     console.log(movie);
-    return <Movie key={movie.id} id={movie.id} title={movie.title} summary={movie.summary} year={movie.year} genres={movie.genres} poster={movie.medium_cover_image}></Movie>
+    return <Movie key={movie.id} title={movie.title} summary={movie.summary} year={movie.year} genres={movie.genres} poster={movie.medium_cover_image}></Movie>
   })
 
   return (

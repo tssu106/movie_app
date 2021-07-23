@@ -7,13 +7,14 @@
 .movie{
     width: 400px;
     height: 640px;
-    padding : 10px;
-    margin : 20px;
+    padding : 15px;
+    margin : 10px;
     border: 1px solid;
 }
 
 .movie > h4{
     text-align: center;
+    margin : 10px 0 20px 0;
 }
 
 .movie .imgWrapper{

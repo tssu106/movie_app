@@ -1,2 +1,0 @@
-.movie_wrapper{display:flex;flex-flow:row wrap;justify-content:space-around}.movie{width:400px;height:640px;padding:10px;margin:20px;border:1px solid}.movie>h4{text-align:center}.movie .imgWrapper{border:1px solid;width:230px;height:345px;margin:0 auto;padding:5px}.loading{width:100%;height:100vh;opacity:"0.5";background-color:#fff;display:flex;justify-content:center;align-items:center}.loading .loading_img{width:50px}
-/*# sourceMappingURL=main.6dcd62c8.chunk.css.map */
